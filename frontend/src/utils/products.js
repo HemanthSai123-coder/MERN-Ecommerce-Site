@@ -16,7 +16,7 @@ export const productDataList = [
   },
   {
     productName: "Xiaomi 12 Pro 5G (Opera Mauve, 256 GB)  (12 GB RAM)",
-    price: {
+    price: { 
       mrp: 19999,
       cost: 14199,
       discountPercent: 30,
